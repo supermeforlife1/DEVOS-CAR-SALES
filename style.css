@@ -1,0 +1,124 @@
+h1 {
+      font-family: "Fredoka", sans-serif;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      font-size:50px;
+}
+
+#heads img{
+      display:flex;
+      width:120px;
+      margin-right:20px;
+      justify-content:center;
+      align-items:center;
+      margin-left:970px;
+      border-radius:25px;
+}
+
+#heads{
+      display:flex;
+}
+
+
+.images img{
+      width:425px;
+      height:370px;
+      margin-top:100px;
+      border: 5px solid;
+      border-radius: 25px;
+}
+
+.images{
+      width:1000px;
+      display:flex;
+}
+
+
+#kenny-car {
+      margin-left:35px;
+      margin-top:180px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+      padding:15px;
+      display:flex;
+}
+
+#kenny-car:hover{
+      transition: transform 0.3s ease-out;
+      transform: scale(1.03);
+}
+
+img:hover{
+      box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+      transition: transform 0.3s ease-out;
+      transform: scale(1.03);
+}
+
+.image2 img{
+      width:425px;
+      height:370px;
+      margin-top:150px;
+      border: 5px solid;
+      border-radius: 25px;
+}
+
+#devo-spec {
+      margin-left:35px;
+      margin-top:180px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+      padding:15px;
+      display:flex;
+}
+
+#devo-spec:hover{
+      transition: transform 0.3s ease-out;
+      transform: scale(1.03);
+}
+
+.image2 {
+      width:1000px;
+      display:flex;
+      margin-bottom:50px;
+}
+
+.image3 img{
+      width:425px;
+      height:370px;
+      margin-top:150px;
+      border: 5px solid;
+      border-radius: 25px;
+}
+
+#yeller-beam {
+      margin-left:35px;
+      margin-top:180px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+      padding:15px;
+      display:flex;
+}
+
+#yeller-beam:hover{
+      transition: transform 0.3s ease-out;
+      transform: scale(1.03);
+}
+
+.image3 {
+      width:1000px;
+      display:flex;
+      margin-bottom:50px;
+}
+
+#background {
+      background: #6b9ed1;
+      background: linear-gradient(180deg, rgba(107, 158, 209, 1) 0%, rgba(0, 0, 0, 0.71) 100%);
+      width:2550px;
+      height:1900px;
+}
+
+
+
+
+
